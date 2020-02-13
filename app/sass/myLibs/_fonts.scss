@@ -1,0 +1,54 @@
+// ============================== some font ==============================
+
+/* @font-face {
+    font-family: 'Noto Sans';
+    src: url('../fonts/noto_sans-regular/notosans-regular-webfont.eot');
+    src: url('../fonts/noto_sans-regular/notosans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/noto_sans-regular/notosans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/noto_sans-regular/notosans-regular-webfont.woff') format('woff'),
+         url('../fonts/noto_sans-regular/notosans-regular-webfont.ttf') format('truetype'),
+         url('../fonts/noto_sans-regular/notosans-regular-webfont.svg#noto_sansregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+} */
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/open_sans-regular/opensans-regular-webfont.eot');
+    src: url('../fonts/open_sans-regular/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/open_sans-regular/opensans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/open_sans-regular/opensans-regular-webfont.woff') format('woff'),
+         url('../fonts/open_sans-regular/opensans-regular-webfont.ttf') format('truetype'),
+         url('../fonts/open_sans-regular/opensans-regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald-medium/oswald-medium-webfont.eot');
+    src: url('../fonts/oswald-medium/oswald-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/oswald-medium/oswald-medium-webfont.woff2') format('woff2'),
+         url('../fonts/oswald-medium/oswald-medium-webfont.woff') format('woff'),
+         url('../fonts/oswald-medium/oswald-medium-webfont.ttf') format('truetype'),
+         url('../fonts/oswald-medium/oswald-medium-webfont.svg#open_sansregular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald-light/oswald-light-webfont.eot');
+    src: url('../fonts/oswald-light/oswald-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/oswald-light/oswald-light-webfont.woff2') format('woff2'),
+         url('../fonts/oswald-light/oswald-light-webfont.woff') format('woff'),
+         url('../fonts/oswald-light/oswald-light-webfont.ttf') format('truetype'),
+         url('../fonts/oswald-light/oswald-light-webfont.svg#oswaldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
